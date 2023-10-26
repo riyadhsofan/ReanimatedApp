@@ -12,7 +12,7 @@ Open-Source React Native Ecommerce Cross Platform Mobile App :iphone:
 
 ## Mockups
 
-<img align="left" alt="EasyBuy" src="image/easybuy.png" width="1000"/>
+<!-- <img align="left" alt="EasyBuy" src="image/easybuy.png" width="1000"/> -->
 
 .
 
@@ -84,6 +84,6 @@ The presentation of the Mockups can be seen from [here](https://www.youtube.com/
 
 ## Thanks to all the contributors ❤️
 
-<a href = "https://github.com/UsamaSarwar/reactnative-ecommerce-charlie">
+<!-- <a href = "https://github.com/UsamaSarwar/reactnative-ecommerce-charlie">
   <img src = "https://contrib.rocks/image?repo=UsamaSarwar/reactnative-ecommerce-charlie"/>
-</a>
+</a> -->
